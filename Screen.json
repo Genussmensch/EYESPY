@@ -1,0 +1,12 @@
+{
+    "header_text": "Welcome to EyeSpy!",
+    "cell_count_per_row": 16,
+    "row_count": 3,
+    "border_style": "border_style_curved_corners",
+    "table_content": [
+        ["AAA", "BBB", "CCC", "DDD", "EEE", "FFF", "GGG", "HHH", "III", "JJJ", "KKK", "LLL", "MMM", "NNN", "OOO", "PPP"],
+        ["QQQ", "RRR", "SSS", "TTT", "UUU", "VVV", "WWW", "XXX", "YYY", "ZZZ", "111", "222", "333", "444", "555", "666"],
+        ["   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+    ]
+  }
+  

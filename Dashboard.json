@@ -1,0 +1,13 @@
+{
+    "header_text": "Examplatory Dashboard",
+    "cell_count_per_row": 5,
+    "row_count": 2,
+    "header_border_style": "border_style_curved_corners",
+    "table_border_style": "border_style_curved_corners",
+    "table_content": [
+        ["LOAD","EDIT","SAVE","JSONS","!!!!"],
+        ["ONE","DAY","I'LL","FIND","IT"]
+    ]
+   
+  }
+  

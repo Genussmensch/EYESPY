@@ -1,0 +1,56 @@
+{
+  "border_style_default": {
+    "header_left": "┌",
+    "header_middle": "─",
+    "header_right": "┐",
+    "wall": "│",
+    "bottom_left": "└",
+    "bottom_middle": "─",
+    "bottom_right": "┘"
+  },
+  "border_style_curved_corners": {
+    "header_left": "╭",
+    "header_middle": "─",
+    "header_right": "╮",
+    "wall": "│",
+    "bottom_left": "╰",
+    "bottom_middle": "─",
+    "bottom_right": "╯"
+  },
+  "border_style_double_lines": {
+    "header_left": "╔",
+    "header_middle": "═",
+    "header_right": "╗",
+    "wall": "║",
+    "bottom_left": "╚",
+    "bottom_middle": "═",
+    "bottom_right": "╝"
+  },
+  "border_style_dotted_border": {
+    "header_left": "⋮",
+    "header_middle": "⋯",
+    "header_right": "⋮",
+    "wall": "⋮",
+    "bottom_left": "⋮",
+    "bottom_middle": "⋯",
+    "bottom_right": "⋮"
+  },
+  "border_style_bubbles": {
+    "header_left": ":",
+    "header_middle": "°",
+    "header_right": ":",
+    "wall": ":",
+    "bottom_left": ":",
+    "bottom_middle": ".",
+    "bottom_right": ":"
+  },
+  "border_style_fancy_box": {
+    "header_left": "╔",
+    "header_middle": "═",
+    "header_right": "╗",
+    "wall": "║",
+    "bottom_left": "╚",
+    "bottom_middle": "═",
+    "bottom_right": "╝"
+  }
+}
